@@ -36,3 +36,7 @@ CUSTOM_PACKAGES="$CUSTOM_PACKAGES luci-app-netspeedtest luci-i18n-netspeedtest-z
 #CUSTOM_PACKAGES="$CUSTOM_PACKAGES luci-app-netwizard luci-i18n-netwizard-zh-cn"
 # Lucky大吉 
 #CUSTOM_PACKAGES="$CUSTOM_PACKAGES luci-app-lucky lucky"
+CUSTOM_PACKAGES="$CUSTOM_PACKAGESluci-app-airplay2_1-r10_all"
+CUSTOM_PACKAGES="$CUSTOM_PACKAGESluci-app-ddns-go_25.218.38878~67d5b6b_all"
+CUSTOM_PACKAGES="$CUSTOM_PACKAGESluci-app-music-remote-center_1-r7_all"
+CUSTOM_PACKAGES="$CUSTOM_PACKAGESluci-app-zerotier_25.218.38878~67d5b6b_all"
